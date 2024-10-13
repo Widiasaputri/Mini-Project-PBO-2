@@ -89,9 +89,6 @@ Package ini berisi kelas-kelas yang mengimplementasikan logika bisnis dan strukt
 ## Antarmuka Pengguna
 Sistem menggunakan antarmuka berbasis konsol dengan menu pilihan untuk melakukan berbagai operasi. Pengguna dapat memilih opsi dari 1 hingga 5 untuk melakukan operasi yang diinginkan atau keluar dari program.
 
-## Kesimpulan
-Sistem Manajemen Studio Foto ini mendemonstrasikan penggunaan prinsip-prinsip OOP dalam Java untuk menciptakan aplikasi yang terstruktur dan mudah dipelihara. Dengan menggunakan abstraksi, inheritance, dan interface, sistem ini menyediakan fondasi yang kuat untuk pengembangan lebih lanjut dan penambahan fitur di masa depan.
-
 ## OUTPUT
 1. Menu Utama
 
